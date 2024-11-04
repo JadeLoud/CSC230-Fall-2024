@@ -74,6 +74,12 @@ nav a {
    padding: 10px 0;
 }
 
+nav a {
+   color: white; /* Set text color to white */
+   text-decoration: none; /* Remove underline */
+   background-color: hsla(0, 0%, 42%, 0.4); /* Set semi-transparent background color */
+}
+
 
 
 
