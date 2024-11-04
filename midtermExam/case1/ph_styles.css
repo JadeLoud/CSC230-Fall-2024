@@ -133,6 +133,12 @@ dt {
    color: hsla(0, 0%, 0%, 0.4); /* Set font color to semi-transparent black */
 }
 
+dd {
+   font-size: 1.3em; /* Set font size to 1.3em */
+   margin-left: 0; /* Set left margin to 0 pixels */
+   margin-bottom: 10px; /* Set bottom margin to 10 pixels */
+}
+
 
 /* Description List Styles */
 
