@@ -46,6 +46,12 @@ body {
 header {
    background-color: black;
 }
+/* Paragraph Styles */
+
+p {
+   margin: 0;
+   padding: 5px 25px 25px 25px;
+}
 
 /* Navigation Styles */
 
