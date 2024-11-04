@@ -30,7 +30,8 @@ body > header > nav.horizontalNavigatioon li { width: 20%;}
 
 
 /* Horizontal Navigation Styles */
-
+nav.horizontalNavigation li { display: block;
+float: left;}
 
 
 /* Left Column Styles */
