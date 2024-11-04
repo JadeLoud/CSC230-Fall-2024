@@ -80,6 +80,12 @@ nav a {
    background-color: hsla(0, 0%, 42%, 0.4); /* Set semi-transparent background color */
 }
 
+nav a:hover,
+nav a:active {
+    color: hsla(0, 0%, 100%, 0.7); /* Set text color */
+    background-color: hsla(0, 0%, 42%, 0.7); /* Set background color */
+}
+
 
 
 
