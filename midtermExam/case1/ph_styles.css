@@ -85,14 +85,14 @@ nav a:active {
     color: hsla(0, 0%, 100%, 0.7); /* Set text color */
     background-color: hsla(0, 0%, 42%, 0.7); /* Set background color */
 }
-
-
-
-
 /* Section Styles */
 
-
-
+section.playbill h1 {
+   font-size: 3em; 
+   font-weight: normal;
+   margin: 0; 
+   padding: 20px 0 10px 20px;
+}
 
 /* Description List Styles */
 
