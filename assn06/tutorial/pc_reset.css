@@ -14,7 +14,16 @@
 */
 
 /* Structural Styles */
-
+header,
+nav,
+section,
+article,
+aside,
+footer {
+    display: block; 
+    margin: 0;     
+    padding: 0;    
+}
 
 
 
