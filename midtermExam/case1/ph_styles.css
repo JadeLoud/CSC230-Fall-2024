@@ -110,5 +110,22 @@ section.playbill h1 {
    background-color: hsl(296, 86%, 86%); /* Light purple background */
 }
 
+#play1 h1 {
+   font-family: 'Champagne', cursive; /* Font stack for play1 */
+}
+
+#play2 h1 {
+   font-family: 'Grunge', 'Times New Roman', Times, serif; /* Font stack for play2 */
+}
+
+#play3 h1 {
+   font-family: 'Impact', Charcoal, sans-serif; /* Font stack for play3 */
+}
+
+#play4 h1 {
+   font-family: 'Dobkin', cursive; /* Font stack for play4 */
+}
+
+
 /* Description List Styles */
 
