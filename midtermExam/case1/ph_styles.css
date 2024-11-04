@@ -125,6 +125,13 @@ section.playbill h1 {
 #play4 h1 {
    font-family: 'Dobkin', cursive; /* Font stack for play4 */
 }
+/* Definition List Styles */
+
+dt {
+   font-size: 1.3em; /* Set font size to 1.3em */
+   font-weight: bold; /* Set font weight to bold */
+   color: hsla(0, 0%, 0%, 0.4); /* Set font color to semi-transparent black */
+}
 
 
 /* Description List Styles */
