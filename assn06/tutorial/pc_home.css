@@ -14,7 +14,12 @@
 */
 
 /* Body Styles */
-
+body {
+   max-width: 960px;
+   min-width: 640px;
+   margin: 0 auto;
+   padding: 0 20px;
+ }
 
 
 /* Body Header Styles */
