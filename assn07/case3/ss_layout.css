@@ -16,7 +16,7 @@
 
 /* Article Styles */
 
-article {
+body article {
    float: left; 
    width: 384px;
 }
