@@ -25,7 +25,9 @@ address, article, aside, blockquote, body, cite, div, dl, dt, dd, em, figcaption
 font-size: 100%;
 margin: 0;
 padding: 0;
-vertical-align: baseline;}
+vertical-align: baseline;
+box-sizing: border-box;
+}
 
 nav ul {
    list-style: none;
