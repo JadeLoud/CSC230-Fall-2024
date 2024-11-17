@@ -44,18 +44,12 @@ body aside {
    float: left; 
 }
 
-/* Map Styles */
-
-#battleMap {
-   width: 688px; 
-   margin: 20px auto; 
+body aside div#battleMap {
+   width: 688px;
+   margin: 20px auto;
    position: relative;
 }
 
-#mapImage {
-   display: block; 
-   width: 100%; 
-}
 
 /* Interactive Map Styles */
 
