@@ -6,8 +6,8 @@
    Tutorial Case
    
    Visual Style Sheet for Tree and Book Family Home Page
-   Author: 
-   Date:   
+   Author: Jade Loud
+   Date:  11/17/24 
    
    Filename: tb_visual1.css
 
@@ -21,7 +21,10 @@
 
 /* HTML Styles */
 
-
+figure {
+	margin: 20px auto 0px;
+	width: 80%;
+}
 
 
 /* Article Styles */
