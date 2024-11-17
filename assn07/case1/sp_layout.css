@@ -83,6 +83,10 @@ section img {
    margin: 0px auto;
 }
 
+section p {
+   width: 70%;
+   margin: 0px auto;
+}
 
 /* Topics Styles */
 
