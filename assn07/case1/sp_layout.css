@@ -28,7 +28,22 @@ body {
    min-height: 100%;
 }
 
+img {
+   display: block;
+   width: 100%; 
+}
 
+/* CSS Grid Styles */
+
+body {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+}
+
+img#logo {
+   grid-column: span3;
+   width: 100%;
+}
 
 /* Row Styles */
 
@@ -45,8 +60,31 @@ body {
 
 /* Horizontal Navigation List Styles */
 
+nav.horizontal, footer {
+   grid-column: span 4;
+}
 
+aside {
+   grid-column: span 2;
+}
 
+nav.horizontal li {
+   display: block;
+   width: 12.5%;
+   float: left;
+}
+
+/* Section Styles */
+
+section img {
+   width: 50%;
+   margin: 0px auto;
+}
+
+section p {
+   width: 70%;
+   margin: 0px auto;
+}
 
 /* Topics Styles */
 
@@ -62,7 +100,25 @@ body {
 
 /* Customer Comment Styles */
 
+aside {
+   width: 75%;
+   padding-bottom: 30px;
+}
 
+aside:nth-of-type(odd) {
+   justify-self: end;
+}
+
+aside img {
+   float: left;
+   width: 20%;
+}
+
+aside p {
+   float: left;
+   width: 75%;
+   margin: 5px;
+}
 
 /* Footer Styles */
 
