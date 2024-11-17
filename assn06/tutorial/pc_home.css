@@ -23,14 +23,15 @@ body {
    width: 95%;
 }
 
-
-
-
 /* Body Header Styles */
 
 body > header > img {
    display: block;
    width: 100%;
+}
+
+body > header > nav.horizontalNavigation li {
+   width: 20%;
 }
 
 
