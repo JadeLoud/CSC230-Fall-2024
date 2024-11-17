@@ -39,7 +39,7 @@ article p:first-of-type::first-letter {
  
 /* Aside Styles */
 
-aside {
+body aside {
    width: 768px; 
    float: left; 
 }
