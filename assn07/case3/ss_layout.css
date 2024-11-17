@@ -50,6 +50,12 @@ body aside div#battleMap {
    position: relative;
 }
 
+/* Map Styles */
+
+img#mapImage {
+	display: block;
+	width: 100%;
+}
 
 /* Interactive Map Styles */
 
