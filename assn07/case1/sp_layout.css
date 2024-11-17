@@ -116,6 +116,12 @@ aside img {
    width: 20%;
 }
 
+aside p {
+   float: left;
+   width: 75%;
+   margin: 5px;
+}
+
 /* Footer Styles */
 
 
