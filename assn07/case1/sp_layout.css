@@ -28,6 +28,10 @@ body {
    width: 95%;
 }
 
+img {
+   display: block;
+   width: 100%; 
+}
 
 
 /* Row Styles */
