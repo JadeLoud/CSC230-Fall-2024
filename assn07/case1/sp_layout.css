@@ -70,6 +70,11 @@ aside {
    grid-column: span 2;
 }
 
+nav.horizontal li {
+   display: block;
+   width: 12.5%;
+   float: left;
+}
 
 /* Topics Styles */
 
