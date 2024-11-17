@@ -44,13 +44,15 @@ aside {
    float: left; 
 }
 
-/* Map Styles */
-
-#battleMap {
-   width: 688px; 
-   margin: 20px auto; 
+body aside div#battleMap {
+   width: 688px;
+   margin: 20px auto;
    position: relative;
 }
+
+/* Map Styles */
+
+
 
 /* Interactive Map Styles */
 
