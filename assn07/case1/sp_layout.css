@@ -30,7 +30,10 @@ body {
    grid-template-columns: 1fr 1fr 1fr 1fr;
 }
 
-
+img {
+   display: block;
+   width: 100%; 
+}
 
 /* Row Styles */
 
