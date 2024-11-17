@@ -95,5 +95,9 @@ a#marker6 {
 
 /* Map Information Styles */
 
+div.mapInfo {
+	display: none;
+}
+
 
 
