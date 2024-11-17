@@ -39,6 +39,12 @@ body {
    grid-template-columns: repeat(4, 1fr);
 }
 
+img#logo {
+   grid-column: span 3;
+   width: 100%;
+}
+
+
 /* Row Styles */
 
 
