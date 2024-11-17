@@ -76,6 +76,14 @@ nav.horizontal li {
    float: left;
 }
 
+/* Section Styles */
+
+section img {
+   width: 50%;
+   margin: 0px auto;
+}
+
+
 /* Topics Styles */
 
 
