@@ -32,6 +32,13 @@ img {
    display: block;
 }
 
+/* CSS Grid Syles*/
+
+body {
+   display: grid;
+   grid-template-columns: repeat(4, 1fr);
+}
+
 /* Row Styles */
 
 
