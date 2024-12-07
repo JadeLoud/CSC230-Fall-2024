@@ -40,6 +40,9 @@ table#pricing td {
 
 /* Column Styles */
 
+#firstCol {
+	width: 24%;
+}
 
 
 /* Table Header Styles */
