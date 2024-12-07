@@ -26,6 +26,10 @@ table.schedule {
 
 /* Table Cell Styles */
 
+table.schedule th, table.schedule td {
+	border: 1px solid gray;
+}
+
 
 
 /* Table Caption Styles */
