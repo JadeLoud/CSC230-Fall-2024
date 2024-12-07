@@ -50,6 +50,9 @@ table#pricing td {
 
 /* Table Header Styles */
 
+thead tr {
+	height: 60px;
+}
 
 
 
