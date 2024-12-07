@@ -215,3 +215,8 @@ nav.horizontal::after{
    display:table;
    
 }
+
+nav.horizontal a:submenuTitle{
+   display:none;
+   
+}
