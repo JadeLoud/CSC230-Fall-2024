@@ -209,3 +209,9 @@ ul.submenu{
    
 }
 
+nav.horizontal::after{
+   clear:both;
+   content:"";
+   display:table;
+   
+}
