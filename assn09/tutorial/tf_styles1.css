@@ -217,6 +217,17 @@ nav.horizontal::after{
 }
 
 nav.horizontal a:submenuTitle{
-   display:none;
+   display:none;   
+}
+
+article {
+   float:left;
+   margin-right:5%;
+   width:55%;
+}
+aside{
+   float:right;
+   width:40%;
    
 }
+  
