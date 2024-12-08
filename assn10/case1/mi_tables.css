@@ -27,6 +27,12 @@ table#pricing th, table#pricing td {
 	padding: 8px;
 }
 
+table#pricing th {
+	background-color: black;
+	color: rgb(130, 210, 255);
+	font-weight: normal;
+}
+
 /* Column Styles */
 
 
