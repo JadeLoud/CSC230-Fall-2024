@@ -55,7 +55,9 @@ thead tr {
 	height: 60px;
 }
 
-
+table#pricing > thead > tr:first-of-type > th:first-of-type {
+	font-size: 2em;
+}
 
 
 
